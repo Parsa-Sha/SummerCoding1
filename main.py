@@ -3,7 +3,7 @@
 import numpy as np
 
 def main():
-  array = [-384, -14, 162, -467, 1000, -5, 238,  -961, -761, 6, 100]
+  array = [-384, -14, 162, -467, 1000, -5, 238,  -961, -751, 6, 100]
   barray = float('-inf')
 
   for i in range(len(array)):
